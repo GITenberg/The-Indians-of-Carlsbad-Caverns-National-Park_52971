@@ -1,0 +1,23 @@
+_repo: The-Indians-of-Carlsbad-Caverns-National-Park_52971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Jack R.
+    gutenberg_agent_id: '47140'
+    url: http://www.gutenberg.org/2009/agents/47140
+description: ''
+gutenberg_issued: '2016-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Carlsbad Caverns National Park (N.M.)'
+- !lcsh 'Indians of North America -- Southwest, New'
+- GITenberg
+title: The Indians of Carlsbad Caverns National Park
+url: http://www.gutenberg.org/ebooks/52971
