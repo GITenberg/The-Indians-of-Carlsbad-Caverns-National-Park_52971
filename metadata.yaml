@@ -1,11 +1,16 @@
 _repo: The-Indians-of-Carlsbad-Caverns-National-Park_52971
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52971-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Jack R.
     gutenberg_agent_id: '47140'
     url: http://www.gutenberg.org/2009/agents/47140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52971#The-Indians-of-Carlsbad-Caverns-National-Park
 gutenberg_issued: '2016-09-03'
 gutenberg_type: Text
 identifiers:
